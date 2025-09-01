@@ -7,7 +7,7 @@ body {
   min-height: 100vh;
   background-image: url(./btu-removebg-preview.png);
   background-repeat: no-repeat;
-  background-position: top 50px center;
+  background-position: top 20px center;
 }
 .container {
   background: #be569a;
@@ -32,3 +32,4 @@ h1 {
   font-weight: bold;
   color: #0a2c27;
 }
+
